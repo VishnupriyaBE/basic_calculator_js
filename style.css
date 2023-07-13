@@ -1,0 +1,37 @@
+body{
+    background:black;
+}
+h1{
+    background: black;
+    color:aqua;
+    font-size: 400%;
+    height: 70px;
+    text-align: center;
+    padding-top: 50px;
+}
+h3{
+    background: linear-gradient(pink,white,grey);
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: xx-large;
+}
+div{
+
+    background: black;
+    color: chartreuse;
+    margin:auto;
+    height: 50px;
+    width: 400px;
+    text-align: center;
+    font-size: xx-large;
+}
+p{
+    background: black;
+    color: chartreuse;
+    text-align: center;
+    padding-top: 20px;
+    font-size:larger;
+    font-weight: bolder;
+
+}
